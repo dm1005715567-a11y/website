@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "大盟安防防身装备",
+    "description": "",
+    "home_page_url": "https://dmafzb.com",
+    "feed_url": "https://dmafzb.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "大盟安防"
+    },
+    "items": [
+        {
+            "id": "https://dmafzb.com/huan-ying-lai-dao-da-meng-an-fang-zhuan-zhu-nu-xing-zi-wei-fang-hu-zhi-shi-fen-xiang.html",
+            "url": "https://dmafzb.com/huan-ying-lai-dao-da-meng-an-fang-zhuan-zhu-nu-xing-zi-wei-fang-hu-zhi-shi-fen-xiang.html",
+            "title": "欢迎来到大盟安防——专注女性自卫防护知识分享 ",
+            "summary": "这是我们的官方网站上线测试。我们致力于提供专业的个人安全防护建议。",
+            "content_html": "<p>这是我们的官方网站上线测试。我们致力于提供专业的个人安全防护建议。</p>",
+            "author": {
+                "name": "大盟安防"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-16T01:29:06+08:00",
+            "date_modified": "2026-03-16T01:29:06+08:00"
+        }
+    ]
+}
